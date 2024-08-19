@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&family=Roboto:wght@500&family=Sedan:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Matemasie&family=Roboto:wght@500&family=Sedan:ital@0;1&display=swap');
+
+body{
+    background-color: rgb(148, 202, 246);
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+
+table tr:last-child{
+    color: aquamarine;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+ul li a{
+    text-decoration: none;
+    font-family: 'Dancing Script', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+.one{
+    position: absolute;
+    top: 69px;
+    left: 90px;
+    color: rgb(201, 148, 252);
+}
+
+button{
+    margin-left: 30px;
+}
+
+
+.try{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Sedan', Georgia, 'Times New Roman', Times, serif;
+}
+
